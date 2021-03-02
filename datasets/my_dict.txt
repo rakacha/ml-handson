@@ -1,0 +1,8 @@
+beautiful	2
+nasty	-2
+beauty	2
+annoy	-2
+supreme	2
+hate	-1
+awesome	1
+wonderful	1
